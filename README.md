@@ -10,7 +10,8 @@ PROJECT TEAM 2
 * Raphael Pedersen
 
 
-APP DESCRIPTION
+APP DESCRIPTION:
+&nbsp; 
 This app will help students track their mental health and well-being. The user will be able to track their mood, physical activity, and sleep activity, journal, and have access to other help resources. 
 
 
