@@ -11,7 +11,8 @@ PROJECT TEAM 2
 
 
 APP DESCRIPTION:
-&nbsp; 
+&nbsp;   
+
 This app will help students track their mental health and well-being. The user will be able to track their mood, physical activity, and sleep activity, journal, and have access to other help resources. 
 
 
